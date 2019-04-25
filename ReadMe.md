@@ -59,7 +59,6 @@ Request Broker is an application built with a react frontend and an AWS powered 
 * [Ant Design](https://ant.design/) - materialized design system
 * [Amazon Web Services](https://aws.amazon.com/) - serverless infrastructure 
 * [Serverless Framework](https://serverless.com/) - toolkit for serverless applications
-* [Virus Total API](https://developers.virustotal.com/reference) - malware scanning API
 
 ## Authors
 
