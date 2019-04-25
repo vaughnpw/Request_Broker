@@ -51,7 +51,6 @@ You should see the webpage below
 * [Ant Design](https://ant.design/) - materialized design system
 * [Amazon Web Services](https://aws.amazon.com/) - serverless infrastructure 
 * [Serverless Framework](https://serverless.com/) - toolkit for serverless applications
-* [Virus Total API](https://developers.virustotal.com/reference) - malware scanning API
 
 ## Authors
 
