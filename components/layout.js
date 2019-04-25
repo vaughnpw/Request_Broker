@@ -75,7 +75,7 @@ class CustomLayout extends Component {
             <Col span={4}/>
             <Col span={16}>
               <div style={{ textAlign: "center", paddingTop: 55 }}>
-                Malware Compare ☺2019 Created by _vawn__
+                Request Broker ☺2019 Created by _vawn__
               </div>
             </Col>
             <Col span={4}/>
