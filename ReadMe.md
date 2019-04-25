@@ -44,6 +44,14 @@ You should see the webpage below
   <img alt="request_broker_screenshot" src="https://s3.amazonaws.com/com.request.broker.queue/img/request_broker_screenshot.png" width="400px" />
 </div>
 
+## Infrastructure Diagram
+
+Request Broker is an application built with a react frontend and an AWS powered backend
+
+<div align="center">
+  <img alt="request_broker_diagram" src="https://s3.amazonaws.com/com.request.broker.queue/img/request_broker_diagram.pdf" width="400px" />
+</div>
+
 ## Built With
 
 * [Next.js](https://nextjs.org/) - react framework
